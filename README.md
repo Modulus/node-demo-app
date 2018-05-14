@@ -48,3 +48,5 @@ Update repo afterwards
 ```
 aptly publish update xenial s3:spinnaker-debian-repo:
 ```
+
+# Trigger commit
